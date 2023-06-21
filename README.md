@@ -9,8 +9,6 @@
 
 <img align="" width="1500" height="180" src="images/projetoBanner.png"> </img>
 
-<br>
-
 ## Somethings about me 💭✨
 
 * 😂 Fun Fact: I love Rock 🤘  and Play Games 🎮, and Use My Computer 🖥 Most Of Time

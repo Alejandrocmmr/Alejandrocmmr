@@ -7,7 +7,7 @@
 
 <br>
 
-<img align="" width="700" height="130" src="images/projetoBanner.png"> </img>
+<img align="" width="1500" height="180" src="images/projetoBanner.png"> </img>
 
 <br>
 
